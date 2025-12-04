@@ -70,9 +70,11 @@ The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC 
  
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- 
+ <img width="932" height="526" alt="image" src="https://github.com/user-attachments/assets/247f7ac0-01c1-478d-9e00-bc920b17b831" />
+
 ## Layout diagram:
- 
+ <img width="936" height="544" alt="image" src="https://github.com/user-attachments/assets/23e48857-066a-4a27-bbaa-97ea5b3b2fcb" />
+
 # RESULT:
 Thus, the schematic and PCB layout for the LED sequencer circuit has been successfully designed using Altium software.
 
